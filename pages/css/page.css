@@ -1,3 +1,7 @@
+
+body{
+	background-image: url(im/vr.png);
+}
 .text{
 	position: absolute;
 	bottom: 1%;
