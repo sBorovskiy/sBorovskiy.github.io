@@ -3,10 +3,7 @@ body{
 	background-image: url(im/vr.png);
 	background-size: 100%;
 }
-.text{
-	position: absolute;
-	left:35%; 
-}
+
 
 .font{
 	font-size: 15px;
